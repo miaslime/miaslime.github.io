@@ -16,8 +16,10 @@ header {
   font-weight: bold;
   display: flex;
   align-items: center;
+  align-content: center;
+  justify-items: center;
   justify-content: center;
-  text-decoration-thickness: 0px;
+  text-decoration-color: #ff5722;
 }
 
 h1 {
