@@ -15,7 +15,8 @@ header {
   font-size: 5vw;
   font-weight: bold;
   display: flex;
-  flex-basis: space-around;
+  align-items: center;
+  justify-content: center;
 }
 
 h1 {
