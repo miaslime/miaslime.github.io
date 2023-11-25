@@ -12,7 +12,7 @@ body {
 header {
   background-color: #ff5722;
   padding: 25px;
-  font-size: 5vw;
+  font-size: 6vw;
   font-weight: bold;
   display: flex;
   align-items: center;
@@ -23,5 +23,5 @@ header {
 }
 
 h1 {
-  font-size: 7vw;
+  font-size: 7.5vw;
 }
