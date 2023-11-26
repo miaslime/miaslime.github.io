@@ -26,3 +26,11 @@ header {
 h1 {
   font-size: 7.5vw;
 }
+
+#toolbar{
+  display: flex;
+}
+
+#imgs{
+  
+}
